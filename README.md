@@ -84,7 +84,7 @@
 <a href="https://www.epicgames.com/site/en-US/tos?lang=en-US" target="_blank">
   <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" />
 </a>
-<a href="https://www.chess.com/legal" target="_blank">
+<a href="https://www.chess.com/" target="_blank">
   <img src="https://img.shields.io/badge/Chess-FF4500?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess" />
 </a>
 
