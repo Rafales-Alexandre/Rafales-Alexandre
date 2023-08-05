@@ -69,7 +69,7 @@
 <a href="https://www.microsoft.com/en-us/windows" target="_blank">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </a>
-<a href="https://www.linux.org/docs/" target="_blank">
+<a href="https://linux.org/whats-new/" target="_blank">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </a>
 
