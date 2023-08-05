@@ -96,7 +96,7 @@
 <a href="https://threejs.org/docs/" target="_blank">
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
 </a>
-<a href="https://reactjs.org/docs/concurrent-mode-patterns.html" target="_blank">
+<a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction" target="_blank">
   <img src="https://img.shields.io/badge/React%20Fiber-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Fiber" />
 </a>
 <a href="https://socket.io/docs/v4/index.html" target="_blank">
