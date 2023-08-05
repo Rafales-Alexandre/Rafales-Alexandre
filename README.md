@@ -26,10 +26,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </a>
-<a href="https://reactjs.org/docs/" target="_blank">
+<a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </a>
-<a href="https://redux.js.org/" target="_blank">
+<a href="https://redux.js.org/introduction/getting-started" target="_blank">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 </a>
 <a href="https://vitejs.dev/guide/" target="_blank">
