@@ -100,4 +100,3 @@
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rafales-Alexandre&show_icons=true&theme=tokyonight" alt="Alexandre-Rafales GitHub stats" />
